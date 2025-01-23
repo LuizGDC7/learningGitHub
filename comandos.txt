@@ -1,0 +1,7 @@
+echo "# learningGitHub" >> README.md -> inicia um arquivo README com o título principal sendo o nome do nosso projeto 
+git init
+git add README.md 
+git commit -m "first commit"
+
+git branch -M main -> inicia uma nova branch chamada main
+git remote add origin 
